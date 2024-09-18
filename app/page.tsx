@@ -8,14 +8,6 @@ export default function Home() {
           Netlify (Link)
         </Link>
         <span className="p-10" />
-        <Link
-          href="https://ga-test2.netlify.app"
-          rel="noreferrer"
-          prefetch={false}
-        >
-          Netlify (Link)
-        </Link>
-        <span className="p-10" />
         <a href="https://ga-test2.netlify.app" rel="noreferrer">
           Netlify (a)
         </a>
